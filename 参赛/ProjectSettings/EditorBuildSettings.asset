@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scene_Menu.unity
+    guid: da4885b4479e5a84387b6ec2b685b41e
+  - enabled: 1
+    path: Assets/Scenes/Scene_Start.unity
+    guid: 1d43b9829baf826449c3e5218be8ecb2
+  - enabled: 1
+    path: Assets/Scenes/Scene_weijin.unity
+    guid: d16e035080dc80a49982eee1ba96eb2e
+  - enabled: 1
+    path: Assets/Scenes/Scene_Level1.unity
+    guid: 9e2d1a23dcb92a145bb5892cc5e1aac8
+  - enabled: 1
+    path: Assets/Scenes/Scene_Wanquanhuanfang.unity
+    guid: 5a0a2b74b28067d4cb1d3c16415d10b6
+  - enabled: 1
+    path: Assets/Scenes/Scene_Level1_back.unity
+    guid: 4e3dfd6e7d5acde49b3bb0ac21c95996
+  - enabled: 1
+    path: Assets/Scenes/Scene_Nanbei.unity
+    guid: 19dff51ffb645e84b8fe5bfcd05abe5f
+  - enabled: 1
+    path: Assets/Scenes/Scene_Level2.unity
+    guid: 4ae03bb0055309f47b88e8815bd795b3
+  - enabled: 1
+    path: Assets/Scenes/Scene_PiRemanber.unity
+    guid: df7394980e9cb814e993b10cab1b0dd2
+  - enabled: 1
+    path: Assets/Scenes/Scene_Level2_back.unity
+    guid: 8cc3f58831a5fce429ab4bc7c2a38ee4
+  - enabled: 1
+    path: Assets/Scenes/Scene_Nansong.unity
+    guid: ff4cfac09bc48fe4ca922a7275ac20b1
+  - enabled: 1
+    path: Assets/Scenes/Scene_Levelt.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene_Yanghuisanjiao.unity
+    guid: 4ad18f9b440c3344f9a16e1e066d93ea
+  - enabled: 1
+    path: Assets/Scenes/Scene_Levelt_back.unity
+    guid: 553e8aa1228829d4d965a9f7ae89c92d
+  - enabled: 1
+    path: Assets/Scenes/Scene_Chenghuanfang.unity
+    guid: f36d0c8b16272234ab56071869b6b3a4
+  - enabled: 1
+    path: Assets/Scenes/Scene_Levelt_back2.unity
+    guid: dc33cebce3670ac4e91e639557fa63e5
+  - enabled: 1
+    path: Assets/Scenes/Scene_End.unity
+    guid: 833a8d26aea624942bfedf5954163388
+  m_configObjects: {}
